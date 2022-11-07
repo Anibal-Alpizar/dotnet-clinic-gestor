@@ -211,7 +211,7 @@
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(170, 19);
             this.label12.TabIndex = 29;
-            this.label12.Text = "SIS 637790 ICM 46975";
+            this.label12.Text = "number";
             // 
             // label11
             // 
@@ -221,7 +221,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(102, 19);
             this.label11.TabIndex = 28;
-            this.label11.Text = "18.470.546-K";
+            this.label11.Text = "number-K";
             // 
             // label10
             // 
