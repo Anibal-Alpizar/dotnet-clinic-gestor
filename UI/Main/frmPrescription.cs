@@ -115,7 +115,7 @@ namespace Clinic_gestor.UI.Main
                     mensaje.IsBodyHtml = true;
                     mensaje.Subject = "Hola! " + nombre + " te enviamos tu receta";
                     mensaje.Body = "Receta";
-                    mensaje.From = new MailAddress("anibalpruebas123@gmail.com");
+                    mensaje.From = new MailAddress("email");
                     mensaje.To.Add(correo);
                     SmtpClient smtp = new SmtpClient("smtp.gmail.com");
                     smtp.Port = 587;
