@@ -16,7 +16,7 @@ Main Frame </br>
 
 ![image](https://user-images.githubusercontent.com/82195641/200375185-18365065-d082-4292-8b9e-1813afb3e1e5.png)
 ![image](https://user-images.githubusercontent.com/82195641/200375299-982ff23c-1cf7-48da-a562-5f6f18ca9b4f.png)
-![image](https://user-images.githubusercontent.com/82195641/200375537-2a4cdcee-217e-4413-8016-1e26559c81c5.png)
+![image](https://user-images.githubusercontent.com/82195641/200377303-751e1b37-16af-47ea-9d0a-baae89023532.png)
 
 
 
