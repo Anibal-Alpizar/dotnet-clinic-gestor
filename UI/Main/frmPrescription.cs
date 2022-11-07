@@ -119,7 +119,7 @@ namespace Clinic_gestor.UI.Main
                     mensaje.To.Add(correo);
                     SmtpClient smtp = new SmtpClient("smtp.gmail.com");
                     smtp.Port = 587;
-                    smtp.Credentials = new NetworkCredential("anibalpruebas123@gmail.com", "gjedaniypytljekq");
+                    smtp.Credentials = new NetworkCredential("email", "code v");
                     smtp.EnableSsl = true;
                     mensaje.Attachments.Add(new Attachment(pathpdf));
                     smtp.Send(mensaje);
